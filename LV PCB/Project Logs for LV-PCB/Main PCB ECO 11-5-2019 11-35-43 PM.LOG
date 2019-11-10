@@ -1,0 +1,645 @@
+Added Component: Designator=H1(Hercules)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(Hercules)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IDC34(IDC34)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L1(L7805C-P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "TO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=44136&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=44136&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.jameco.com/Jameco/Products/ProdDS/924633.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.jameco.com/Jameco/Products/ProdDS/924633.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://www.farnell.com/datasheets/2051023.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.farnell.com/datasheets/2051023.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://www.distrelec.biz/Web/Downloads/xc/_e/teL78xx-L78xxC_e.pdf?mime=application%2Fpdf&src-supplier=Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.distrelec.biz/Web/Downloads/xc/_e/teL78xx-L78xxC_e.pdf?mime=application%2Fpdf&src-supplier=Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://www.farnell.com/datasheets/2307057.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://www.farnell.com/datasheets/2307057.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "http://www.rapidonline.com/pdf/47-3290e.pdf?src-supplier=Rapid+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "http://www.rapidonline.com/pdf/47-3290e.pdf?src-supplier=Rapid+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "http://www.farnell.com/datasheets/1805459.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "http://www.farnell.com/datasheets/1805459.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "http://www.farnell.com/datasheets/1805459.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "http://www.farnell.com/datasheets/1805459.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12Description"; Value = "http://www.produktinfo.conrad.com/datenblaetter/150000-174999/156048-da-01-en-SPANNUNGSREGLER_L_7805_CV__TO220__STM.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12URL"; Value = "http://www.produktinfo.conrad.com/datenblaetter/150000-174999/156048-da-01-en-SPANNUNGSREGLER_L_7805_CV__TO220__STM.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13Description"; Value = "http://datasheet.iiic.cc/stmicroelectronics/L7805CV.pdf?src-supplier=IIIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13URL"; Value = "http://datasheet.iiic.cc/stmicroelectronics/L7805CV.pdf?src-supplier=IIIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "L7805C-V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Regulators"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Configuration"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Supply Rejection Ratio (PSRR)"; Value = "62dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "8mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Quest"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "L7805CV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.08113oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4.6mm"; VariantName = "[No Variations]"
+Added Component: Designator=L2(L7805C-P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "TO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=44136&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=44136&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.jameco.com/Jameco/Products/ProdDS/924633.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.jameco.com/Jameco/Products/ProdDS/924633.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://www.farnell.com/datasheets/2051023.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.farnell.com/datasheets/2051023.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://www.distrelec.biz/Web/Downloads/xc/_e/teL78xx-L78xxC_e.pdf?mime=application%2Fpdf&src-supplier=Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.distrelec.biz/Web/Downloads/xc/_e/teL78xx-L78xxC_e.pdf?mime=application%2Fpdf&src-supplier=Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://www.farnell.com/datasheets/2307057.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://www.farnell.com/datasheets/2307057.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "http://www.rapidonline.com/pdf/47-3290e.pdf?src-supplier=Rapid+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "http://www.rapidonline.com/pdf/47-3290e.pdf?src-supplier=Rapid+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "http://www.farnell.com/datasheets/1805459.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "http://www.farnell.com/datasheets/1805459.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "http://www.farnell.com/datasheets/1805459.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "http://www.farnell.com/datasheets/1805459.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12Description"; Value = "http://www.produktinfo.conrad.com/datenblaetter/150000-174999/156048-da-01-en-SPANNUNGSREGLER_L_7805_CV__TO220__STM.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12URL"; Value = "http://www.produktinfo.conrad.com/datenblaetter/150000-174999/156048-da-01-en-SPANNUNGSREGLER_L_7805_CV__TO220__STM.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13Description"; Value = "http://datasheet.iiic.cc/stmicroelectronics/L7805CV.pdf?src-supplier=IIIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13URL"; Value = "http://datasheet.iiic.cc/stmicroelectronics/L7805CV.pdf?src-supplier=IIIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "L7805C-V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Regulators"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Configuration"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Supply Rejection Ratio (PSRR)"; Value = "62dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "8mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Quest"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "L7805CV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.08113oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4.6mm"; VariantName = "[No Variations]"
+Added Component: Designator=L3(L7805C-P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "TO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=44136&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=44136&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.jameco.com/Jameco/Products/ProdDS/924633.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.jameco.com/Jameco/Products/ProdDS/924633.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://www.farnell.com/datasheets/2051023.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.farnell.com/datasheets/2051023.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://www.distrelec.biz/Web/Downloads/xc/_e/teL78xx-L78xxC_e.pdf?mime=application%2Fpdf&src-supplier=Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.distrelec.biz/Web/Downloads/xc/_e/teL78xx-L78xxC_e.pdf?mime=application%2Fpdf&src-supplier=Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://www.farnell.com/datasheets/2307057.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://www.farnell.com/datasheets/2307057.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "http://www.rapidonline.com/pdf/47-3290e.pdf?src-supplier=Rapid+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "http://www.rapidonline.com/pdf/47-3290e.pdf?src-supplier=Rapid+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "http://www.farnell.com/datasheets/1805459.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "http://www.farnell.com/datasheets/1805459.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "http://www.farnell.com/datasheets/1805459.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "http://www.farnell.com/datasheets/1805459.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12Description"; Value = "http://www.produktinfo.conrad.com/datenblaetter/150000-174999/156048-da-01-en-SPANNUNGSREGLER_L_7805_CV__TO220__STM.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12URL"; Value = "http://www.produktinfo.conrad.com/datenblaetter/150000-174999/156048-da-01-en-SPANNUNGSREGLER_L_7805_CV__TO220__STM.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13Description"; Value = "http://datasheet.iiic.cc/stmicroelectronics/L7805CV.pdf?src-supplier=IIIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13URL"; Value = "http://datasheet.iiic.cc/stmicroelectronics/L7805CV.pdf?src-supplier=IIIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "L7805C-V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Regulators"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Configuration"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Supply Rejection Ratio (PSRR)"; Value = "62dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "8mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Quest"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "L7805CV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.08113oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4.6mm"; VariantName = "[No Variations]"
+Added Component: Designator=L4(L7805C-P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "TO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=44136&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=44136&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.jameco.com/Jameco/Products/ProdDS/924633.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.jameco.com/Jameco/Products/ProdDS/924633.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://www.farnell.com/datasheets/2051023.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.farnell.com/datasheets/2051023.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://www.distrelec.biz/Web/Downloads/xc/_e/teL78xx-L78xxC_e.pdf?mime=application%2Fpdf&src-supplier=Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.distrelec.biz/Web/Downloads/xc/_e/teL78xx-L78xxC_e.pdf?mime=application%2Fpdf&src-supplier=Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://www.farnell.com/datasheets/2307057.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://www.farnell.com/datasheets/2307057.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "http://www.rapidonline.com/pdf/47-3290e.pdf?src-supplier=Rapid+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "http://www.rapidonline.com/pdf/47-3290e.pdf?src-supplier=Rapid+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "http://www.farnell.com/datasheets/1805459.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "http://www.farnell.com/datasheets/1805459.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "http://www.farnell.com/datasheets/1805459.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "http://www.farnell.com/datasheets/1805459.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12Description"; Value = "http://www.produktinfo.conrad.com/datenblaetter/150000-174999/156048-da-01-en-SPANNUNGSREGLER_L_7805_CV__TO220__STM.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12URL"; Value = "http://www.produktinfo.conrad.com/datenblaetter/150000-174999/156048-da-01-en-SPANNUNGSREGLER_L_7805_CV__TO220__STM.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13Description"; Value = "http://datasheet.iiic.cc/stmicroelectronics/L7805CV.pdf?src-supplier=IIIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13URL"; Value = "http://datasheet.iiic.cc/stmicroelectronics/L7805CV.pdf?src-supplier=IIIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "L7805C-V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Regulators"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Configuration"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Supply Rejection Ratio (PSRR)"; Value = "62dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "8mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Quest"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "L7805CV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.08113oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4.6mm"; VariantName = "[No Variations]"
+Added Component: Designator=L5(L7805C-P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "TO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=44136&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=44136&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.jameco.com/Jameco/Products/ProdDS/924633.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.jameco.com/Jameco/Products/ProdDS/924633.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://www.farnell.com/datasheets/2051023.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.farnell.com/datasheets/2051023.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://www.distrelec.biz/Web/Downloads/xc/_e/teL78xx-L78xxC_e.pdf?mime=application%2Fpdf&src-supplier=Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.distrelec.biz/Web/Downloads/xc/_e/teL78xx-L78xxC_e.pdf?mime=application%2Fpdf&src-supplier=Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://www.farnell.com/datasheets/2307057.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://www.farnell.com/datasheets/2307057.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "http://www.rapidonline.com/pdf/47-3290e.pdf?src-supplier=Rapid+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "http://www.rapidonline.com/pdf/47-3290e.pdf?src-supplier=Rapid+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "http://www.farnell.com/datasheets/1805459.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "http://www.farnell.com/datasheets/1805459.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "http://www.farnell.com/datasheets/1805459.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "http://www.farnell.com/datasheets/1805459.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12Description"; Value = "http://www.produktinfo.conrad.com/datenblaetter/150000-174999/156048-da-01-en-SPANNUNGSREGLER_L_7805_CV__TO220__STM.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12URL"; Value = "http://www.produktinfo.conrad.com/datenblaetter/150000-174999/156048-da-01-en-SPANNUNGSREGLER_L_7805_CV__TO220__STM.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13Description"; Value = "http://datasheet.iiic.cc/stmicroelectronics/L7805CV.pdf?src-supplier=IIIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13URL"; Value = "http://datasheet.iiic.cc/stmicroelectronics/L7805CV.pdf?src-supplier=IIIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "L7805C-V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Regulators"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Configuration"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Supply Rejection Ratio (PSRR)"; Value = "62dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "8mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Quest"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "L7805CV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.08113oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4.6mm"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RelayARP03F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage"; Value = "3-48v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Switching Current"; Value = "12A"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RelayARP03F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage"; Value = "3-48v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Switching Current"; Value = "12A"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RelayARP03F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage"; Value = "3-48v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Switching Current"; Value = "12A"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RelayARP03F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage"; Value = "3-48v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Switching Current"; Value = "12A"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RelayARP03F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage"; Value = "3-48v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Switching Current"; Value = "12A"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RelayARP03F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage"; Value = "3-48v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Switching Current"; Value = "12A"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RelayARP03F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage"; Value = "3-48v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Switching Current"; Value = "12A"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RelayARP03F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage"; Value = "3-48v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Switching Current"; Value = "12A"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RelayARP03F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage"; Value = "3-48v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Switching Current"; Value = "12A"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RelayARP03F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage"; Value = "3-48v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Switching Current"; Value = "12A"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RelayARP03F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage"; Value = "3-48v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Switching Current"; Value = "12A"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RelayARP03F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage"; Value = "3-48v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Switching Current"; Value = "12A"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RelayARP03F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage"; Value = "3-48v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Switching Current"; Value = "12A"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RelayARP03F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage"; Value = "3-48v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Switching Current"; Value = "12A"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RelayARP03F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage"; Value = "3-48v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Switching Current"; Value = "12A"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RelayARP03F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage"; Value = "3-48v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Switching Current"; Value = "12A"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RelayARP03F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage"; Value = "3-48v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Switching Current"; Value = "12A"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RelayARP03F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage"; Value = "3-48v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Switching Current"; Value = "12A"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RelayARP03F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage"; Value = "3-48v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Switching Current"; Value = "12A"; VariantName = "[No Variations]"
+Added Component: Designator=ROS2(ROSSETA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TB?(SHIELD_ARDUINO_NANO)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ARDUINO NANO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ARDUINO%20NANO/Arduino/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ULN1(ULN2803APG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ULN2(ULN2803APG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ULN3(ULN2803APG)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetH1_1 Pin=H1-1
+Added Pin To Net: NetName=NetH1_1 Pin=H1-1
+Added Pin To Net: NetName=NetH1_1 Pin=H1-1
+Added Pin To Net: NetName=NetH1_1 Pin=H1-1
+Added Pin To Net: NetName=NetH1_1 Pin=H1-1
+Added Pin To Net: NetName=NetH1_1 Pin=H1-1
+Added Pin To Net: NetName=NetH1_1 Pin=H1-1
+Added Pin To Net: NetName=NetH1_1 Pin=H1-1
+Added Pin To Net: NetName=NetH1_1 Pin=H1-1
+Added Pin To Net: NetName=NetH1_1 Pin=H1-1
+Added Pin To Net: NetName=NetH1_1 Pin=H1-1
+Added Pin To Net: NetName=NetH1_25 Pin=H1-25
+Added Pin To Net: NetName=NetH1_26 Pin=H1-26
+Added Pin To Net: NetName=NetH1_29 Pin=H1-29
+Added Pin To Net: NetName=3V3 Pin=H2-1
+Added Pin To Net: NetName=3V3 Pin=H2-1
+Added Pin To Net: NetName=3V3 Pin=H2-1
+Added Pin To Net: NetName=3V3 Pin=H2-1
+Added Pin To Net: NetName=3V3 Pin=H2-1
+Added Pin To Net: NetName=3V3 Pin=H2-1
+Added Pin To Net: NetName=3V3 Pin=H2-1
+Added Pin To Net: NetName=3V3 Pin=H2-1
+Added Pin To Net: NetName=3V3 Pin=H2-1
+Added Pin To Net: NetName=3V3 Pin=H2-1
+Added Pin To Net: NetName=3V3 Pin=H2-1
+Added Pin To Net: NetName=NetH2_17 Pin=H2-17
+Added Pin To Net: NetName=NetH1_26 Pin=H2-25
+Added Pin To Net: NetName=NetH1_25 Pin=H2-26
+Added Pin To Net: NetName=NetH2_29 Pin=H2-29
+Added Pin To Net: NetName=GND Pin=IDC34-1
+Added Pin To Net: NetName=3V3 Pin=IDC34-5
+Added Pin To Net: NetName=START Pin=IDC34-6
+Added Pin To Net: NetName=RTD Pin=IDC34-7
+Added Pin To Net: NetName=APPS1 Pin=IDC34-8
+Added Pin To Net: NetName=APPS2 Pin=IDC34-9
+Added Pin To Net: NetName=IMD Pin=IDC34-10
+Added Pin To Net: NetName=BSPD Pin=IDC34-11
+Added Pin To Net: NetName=IMD LED Pin=IDC34-12
+Added Pin To Net: NetName=AMS LED Pin=IDC34-13
+Added Pin To Net: NetName=AMS Discharge Pin=IDC34-14
+Added Pin To Net: NetName=HVD Pin=IDC34-15
+Added Pin To Net: NetName=IMD RST Pin=IDC34-16
+Added Pin To Net: NetName=AMS RST Pin=IDC34-17
+Added Pin To Net: NetName=RTDS Pin=IDC34-18
+Added Pin To Net: NetName=PRECHARGE Pin=IDC34-19
+Added Pin To Net: NetName=DC60 Pin=IDC34-20
+Added Pin To Net: NetName=DC90 Pin=IDC34-21
+Added Pin To Net: NetName=ENABLE Pin=IDC34-22
+Added Pin To Net: NetName=RFE Pin=IDC34-23
+Added Pin To Net: NetName=INV-ERR Pin=IDC34-24
+Added Pin To Net: NetName=Brake Pedal Pin=IDC34-25
+Added Pin To Net: NetName=Brake Light Pin=IDC34-26
+Added Pin To Net: NetName=Fan Enable Pin=IDC34-27
+Added Pin To Net: NetName=Fan Control Pin=IDC34-28
+Added Pin To Net: NetName=12v Pin=L1-1
+Added Pin To Net: NetName=GND Pin=L1-2
+Added Pin To Net: NetName=NetL1_3 Pin=L1-3
+Added Pin To Net: NetName=12v Pin=L2-1
+Added Pin To Net: NetName=GND Pin=L2-2
+Added Pin To Net: NetName=NetL2_3 Pin=L2-3
+Added Pin To Net: NetName=12v Pin=L3-1
+Added Pin To Net: NetName=GND Pin=L3-2
+Added Pin To Net: NetName=NetL3_3 Pin=L3-3
+Added Pin To Net: NetName=12v Pin=L4-1
+Added Pin To Net: NetName=GND Pin=L4-2
+Added Pin To Net: NetName=NetDD2_1 Pin=L4-3
+Added Pin To Net: NetName=12v Pin=L5-1
+Added Pin To Net: NetName=GND Pin=L5-2
+Added Pin To Net: NetName=NetDD1_1 Pin=L5-3
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=AMS LED Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R1-3
+Added Pin To Net: NetName=AMS Discharge Pin=R1-4
+Added Pin To Net: NetName=NetR1_5 Pin=R1-5
+Added Pin To Net: NetName=NetR1_5 Pin=R2-1
+Added Pin To Net: NetName=IMD LED Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R2-3
+Added Pin To Net: NetName=IMD Pin=R2-4
+Added Pin To Net: NetName=NetR2_5 Pin=R2-5
+Added Pin To Net: NetName=NetR2_5 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-3
+Added Pin To Net: NetName=BSPD Pin=R3-4
+Added Pin To Net: NetName=12v Pin=R3-5
+Added Pin To Net: NetName=AIR+VE Pin=R4-1
+Added Pin To Net: NetName=12v Pin=R4-3
+Added Pin To Net: NetName=NetR4_4 Pin=R4-4
+Added Pin To Net: NetName=AIR-VE Pin=R4-5
+Added Pin To Net: NetName=AMS RST Pin=R5-1
+Added Pin To Net: NetName=SDC_OUT Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R5-3
+Added Pin To Net: NetName=AMS LED Pin=R5-4
+Added Pin To Net: NetName=NetR5_5 Pin=R5-5
+Added Pin To Net: NetName=IMD RST Pin=R6-1
+Added Pin To Net: NetName=NetR5_5 Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R6-3
+Added Pin To Net: NetName=NetR6_5 Pin=R6-5
+Added Pin To Net: NetName=NetR6_5 Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R7-3
+Added Pin To Net: NetName=HVD Pin=R7-4
+Added Pin To Net: NetName=NetR1_1 Pin=R7-5
+Added Pin To Net: NetName=PRECHARGE Pin=R8-1
+Added Pin To Net: NetName=12v Pin=R8-3
+Added Pin To Net: NetName=NetR8_4 Pin=R8-4
+Added Pin To Net: NetName=12v Pin=R8-5
+Added Pin To Net: NetName=RTDS Pin=R9-1
+Added Pin To Net: NetName=12v Pin=R9-3
+Added Pin To Net: NetName=NetR9_4 Pin=R9-4
+Added Pin To Net: NetName=12v Pin=R9-5
+Added Pin To Net: NetName=Fan Control Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-3
+Added Pin To Net: NetName=Fan Enable Pin=R10-4
+Added Pin To Net: NetName=12v Pin=R10-5
+Added Pin To Net: NetName=NetH2_49 Pin=R11-1
+Added Pin To Net: NetName=DC90 Pin=R11-3
+Added Pin To Net: NetName=GND Pin=R11-4
+Added Pin To Net: NetName=NetH1_1 Pin=R11-5
+Added Pin To Net: NetName=NetH2_71 Pin=R12-1
+Added Pin To Net: NetName=DC60 Pin=R12-3
+Added Pin To Net: NetName=GND Pin=R12-4
+Added Pin To Net: NetName=NetH1_1 Pin=R12-5
+Added Pin To Net: NetName=NetH1_47 Pin=R13-1
+Added Pin To Net: NetName=AIR-VE Pin=R13-3
+Added Pin To Net: NetName=GND Pin=R13-4
+Added Pin To Net: NetName=NetH1_1 Pin=R13-5
+Added Pin To Net: NetName=NetH1_45 Pin=R14-1
+Added Pin To Net: NetName=IMD Pin=R14-3
+Added Pin To Net: NetName=GND Pin=R14-4
+Added Pin To Net: NetName=NetH1_1 Pin=R14-5
+Added Pin To Net: NetName=NetH1_71 Pin=R15-1
+Added Pin To Net: NetName=BSPD Pin=R15-3
+Added Pin To Net: NetName=GND Pin=R15-4
+Added Pin To Net: NetName=NetH1_1 Pin=R15-5
+Added Pin To Net: NetName=NetH1_49 Pin=R16-1
+Added Pin To Net: NetName=INV-ERR Pin=R16-3
+Added Pin To Net: NetName=GND Pin=R16-4
+Added Pin To Net: NetName=NetH1_70 Pin=R16-5
+Added Pin To Net: NetName=RFE Pin=R17-1
+Added Pin To Net: NetName=NetR17_3 Pin=R17-3
+Added Pin To Net: NetName=12v Pin=R17-4
+Added Pin To Net: NetName=12v Pin=R17-5
+Added Pin To Net: NetName=ENABLE Pin=R18-1
+Added Pin To Net: NetName=NetR18_3 Pin=R18-3
+Added Pin To Net: NetName=12v Pin=R18-4
+Added Pin To Net: NetName=12v Pin=R18-5
+Added Pin To Net: NetName=Brake Light Pin=R19-1
+Added Pin To Net: NetName=NetR19_3 Pin=R19-3
+Added Pin To Net: NetName=12v Pin=R19-4
+Added Pin To Net: NetName=12v Pin=R19-5
+Added Pin To Net: NetName=NetL2_3 Pin=ROS2-1
+Added Pin To Net: NetName=NetL2_3 Pin=ROS2-2
+Added Pin To Net: NetName=NetL1_3 Pin=ROS2-3
+Added Pin To Net: NetName=NetL1_3 Pin=ROS2-4
+Added Pin To Net: NetName=NetTB?_5 Pin=TB?-5
+Added Pin To Net: NetName=Brake Pedal Pin=TB?-15
+Added Pin To Net: NetName=NetL3_3 Pin=TB?-18
+Added Pin To Net: NetName=GND Pin=TB?-19
+Added Pin To Net: NetName=NetH2_35 Pin=ULN1-1
+Added Pin To Net: NetName=NetH2_35 Pin=ULN1-2
+Added Pin To Net: NetName=NetH2_35 Pin=ULN1-3
+Added Pin To Net: NetName=NetH2_35 Pin=ULN1-4
+Added Pin To Net: NetName=NetH2_37 Pin=ULN1-5
+Added Pin To Net: NetName=NetH2_37 Pin=ULN1-6
+Added Pin To Net: NetName=NetH2_37 Pin=ULN1-7
+Added Pin To Net: NetName=NetH2_37 Pin=ULN1-8
+Added Pin To Net: NetName=NetR4_4 Pin=ULN1-10
+Added Pin To Net: NetName=NetR4_4 Pin=ULN1-11
+Added Pin To Net: NetName=NetR4_4 Pin=ULN1-12
+Added Pin To Net: NetName=NetR4_4 Pin=ULN1-13
+Added Pin To Net: NetName=NetR9_4 Pin=ULN1-14
+Added Pin To Net: NetName=NetR9_4 Pin=ULN1-15
+Added Pin To Net: NetName=NetR9_4 Pin=ULN1-16
+Added Pin To Net: NetName=NetR9_4 Pin=ULN1-17
+Added Pin To Net: NetName=GND Pin=ULN1-18
+Added Pin To Net: NetName=NetH2_17 Pin=ULN2-1
+Added Pin To Net: NetName=NetH2_17 Pin=ULN2-2
+Added Pin To Net: NetName=NetH2_17 Pin=ULN2-3
+Added Pin To Net: NetName=NetH2_17 Pin=ULN2-4
+Added Pin To Net: NetName=NetH1_35 Pin=ULN2-5
+Added Pin To Net: NetName=NetH1_35 Pin=ULN2-6
+Added Pin To Net: NetName=NetH1_35 Pin=ULN2-7
+Added Pin To Net: NetName=NetH1_35 Pin=ULN2-8
+Added Pin To Net: NetName=NetR8_4 Pin=ULN2-10
+Added Pin To Net: NetName=NetR8_4 Pin=ULN2-11
+Added Pin To Net: NetName=NetR8_4 Pin=ULN2-12
+Added Pin To Net: NetName=NetR8_4 Pin=ULN2-13
+Added Pin To Net: NetName=NetR17_3 Pin=ULN2-14
+Added Pin To Net: NetName=NetR17_3 Pin=ULN2-15
+Added Pin To Net: NetName=NetR17_3 Pin=ULN2-16
+Added Pin To Net: NetName=NetR17_3 Pin=ULN2-17
+Added Pin To Net: NetName=GND Pin=ULN2-18
+Added Pin To Net: NetName=NetH1_37 Pin=ULN3-1
+Added Pin To Net: NetName=NetH1_37 Pin=ULN3-2
+Added Pin To Net: NetName=NetH1_37 Pin=ULN3-3
+Added Pin To Net: NetName=NetH1_37 Pin=ULN3-4
+Added Pin To Net: NetName=NetTB?_5 Pin=ULN3-5
+Added Pin To Net: NetName=NetTB?_5 Pin=ULN3-6
+Added Pin To Net: NetName=NetTB?_5 Pin=ULN3-7
+Added Pin To Net: NetName=NetTB?_5 Pin=ULN3-8
+Added Pin To Net: NetName=NetR18_3 Pin=ULN3-10
+Added Pin To Net: NetName=NetR18_3 Pin=ULN3-11
+Added Pin To Net: NetName=NetR18_3 Pin=ULN3-12
+Added Pin To Net: NetName=NetR18_3 Pin=ULN3-13
+Added Pin To Net: NetName=NetR19_3 Pin=ULN3-14
+Added Pin To Net: NetName=NetR19_3 Pin=ULN3-15
+Added Pin To Net: NetName=NetR19_3 Pin=ULN3-16
+Added Pin To Net: NetName=NetR19_3 Pin=ULN3-17
+Added Pin To Net: NetName=GND Pin=ULN3-18

@@ -1,0 +1,16 @@
+Importer Log Report
+Project : LAUNCHXL-RM42_RevB.PrjPcb
+
+Section : Analyze Document - E:\CURT'20\PCB\LV PCB\Drawing\LAUNCHXL-RM42_RevB.brd
+    Analyzing data of E:\CURT'20\PCB\LV PCB\Drawing\LAUNCHXL-RM42_RevB.brd
+    Load settings
+    Load layers 125
+    Load Library "launchpad"
+    Load Packages 21
+    Load Library "pinhead"
+    Load Packages 1
+    Load Library "sti_logo_old"
+    Load Packages 1
+    Load Library "zetex"
+    Load Packages 1
+EndSection

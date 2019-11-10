@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=NetR4_4 Pin=R4-4
+Removed Pin From Net: NetName=NetR8_4 Pin=R8-4
+Removed Pin From Net: NetName=NetR9_4 Pin=R9-4
+Removed Pin From Net: NetName=NetR17_3 Pin=R17-3
+Removed Pin From Net: NetName=NetR18_3 Pin=R18-3
+Removed Pin From Net: NetName=NetR19_3 Pin=R19-3
+Removed Pin From Net: NetName=NetR4_4 Pin=ULN1-10
+Removed Pin From Net: NetName=NetR9_4 Pin=ULN1-14
+Removed Pin From Net: NetName=GND Pin=ULN1-18
+Removed Pin From Net: NetName=NetR8_4 Pin=ULN2-10
+Removed Pin From Net: NetName=NetR17_3 Pin=ULN2-14
+Removed Pin From Net: NetName=GND Pin=ULN2-18
+Removed Pin From Net: NetName=NetR18_3 Pin=ULN3-10
+Removed Pin From Net: NetName=NetR19_3 Pin=ULN3-14
+Removed Pin From Net: NetName=GND Pin=ULN3-18
+Added Pin To Net: NetName=NetR9_4 Pin=R4-4
+Added Pin To Net: NetName=NetR17_3 Pin=R8-4
+Added Pin To Net: NetName=NetR4_4 Pin=R9-4
+Added Pin To Net: NetName=NetR8_4 Pin=R17-3
+Added Pin To Net: NetName=NetR19_3 Pin=R18-3
+Added Pin To Net: NetName=NetR18_3 Pin=R19-3
+Added Pin To Net: NetName=GND Pin=ULN1-10
+Added Pin To Net: NetName=NetR4_4 Pin=ULN1-14
+Added Pin To Net: NetName=NetR9_4 Pin=ULN1-18
+Added Pin To Net: NetName=GND Pin=ULN2-10
+Added Pin To Net: NetName=NetR8_4 Pin=ULN2-14
+Added Pin To Net: NetName=NetR17_3 Pin=ULN2-18
+Added Pin To Net: NetName=GND Pin=ULN3-10
+Added Pin To Net: NetName=NetR18_3 Pin=ULN3-14
+Added Pin To Net: NetName=NetR19_3 Pin=ULN3-18
+Change Net Name : Old Net Name=NetR4_4 New Net Name=NetR9_4
+Change Net Name : Old Net Name=NetR8_4 New Net Name=NetR17_3
+Change Net Name : Old Net Name=NetR9_4 New Net Name=NetR4_4
+Change Net Name : Old Net Name=NetR17_3 New Net Name=NetR8_4
+Change Net Name : Old Net Name=NetR18_3 New Net Name=NetR19_3
+Change Net Name : Old Net Name=NetR19_3 New Net Name=NetR18_3

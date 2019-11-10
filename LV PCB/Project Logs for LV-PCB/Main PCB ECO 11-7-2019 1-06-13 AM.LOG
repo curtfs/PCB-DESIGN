@@ -1,0 +1,8 @@
+Added Component: Designator=ROS3(ROSSETA)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=12v Pin=ROS3-2
+Added Pin To Net: NetName=12v Pin=ROS3-3
+Added Pin To Net: NetName=12v Pin=ROS3-4
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=ROS3-1
+Added Net: Name=NetR10_1

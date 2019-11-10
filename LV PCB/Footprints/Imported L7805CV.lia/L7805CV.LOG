@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : L7805CV.LibPkg
+
+Section : E:\CURT'20\PCB\LV PCB\Footprints\L7805CV.lia
+    Section : PCB Library - L7805CV.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token L7805CV On Line 134
+            Warning - 1 : Skipping Token attachedSymbol On Line 191
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - L7805CV.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 114
+            Warning - 1 : Skipping Token layerContents On Line 123
+        EndSection
+
+        Section : Generating SCH Library - L7805CV.SchLib
+        EndSection
+    EndSection
+EndSection
